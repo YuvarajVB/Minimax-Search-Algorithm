@@ -295,5 +295,3 @@ if __name__ == "__main__":
 
 
 
-<h2>Result:</h2>
-<p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
